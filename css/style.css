@@ -7,7 +7,7 @@ body {
 .container_sfondo {
     display: inline-block;    
     background-color: lightblue;
-    text-align: center;
+    
 }
 
 
@@ -48,6 +48,4 @@ thead {
 .tabella {
 
     background-color: powderblue;
-
-
 }
