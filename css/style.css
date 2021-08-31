@@ -1,0 +1,25 @@
+body {
+
+    margin: 0 25%;
+    
+    
+}
+
+.container_sfondo {
+    display: inline-block;    
+    background-color: lightblue;
+}
+
+.sottotitolo {
+    color: lightgray;
+    font-size: large;
+
+}
+
+.booleaner {
+    color: lightskyblue;
+}
+
+.data {
+    font-size: small;
+}
