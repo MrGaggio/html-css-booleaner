@@ -1,11 +1,14 @@
 body {
-    margin: 0 25%;
+    margin: 0 30%;
+    text-align: auto;
+    font-size: 25px;
 }
 
 .container_sfondo {
     display: inline-block;    
     background-color: lightblue;
 }
+
 
 .sottotitolo {
     color: gray;
@@ -21,10 +24,17 @@ body {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 60px;
 }
 
 .trafiletto {
     font-size: 12px;
 }
 
+p {
+    font-size: 25px;
+}
+
+.evidence {
+    background-color: yellow;
+}
