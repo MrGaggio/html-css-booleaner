@@ -7,6 +7,7 @@ body {
 .container_sfondo {
     display: inline-block;    
     background-color: lightblue;
+    text-align: center;
 }
 
 
@@ -37,4 +38,16 @@ p {
 
 .evidence {
     background-color: yellow;
+}
+
+thead {
+    background-color: royalblue;
+
+}
+
+.tabella {
+
+    background-color: powderblue;
+
+
 }
