@@ -1,8 +1,5 @@
 body {
-
     margin: 0 25%;
-    
-    
 }
 
 .container_sfondo {
@@ -11,9 +8,8 @@ body {
 }
 
 .sottotitolo {
-    color: lightgray;
+    color: gray;
     font-size: large;
-
 }
 
 .booleaner {
@@ -23,3 +19,12 @@ body {
 .data {
     font-size: small;
 }
+
+h1 {
+    font-size: 45px;
+}
+
+.trafiletto {
+    font-size: 12px;
+}
+
