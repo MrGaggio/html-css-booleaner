@@ -1,13 +1,18 @@
 body {
-    margin: 0 30%;
-    text-align: auto;
-    font-size: 25px;
+
 }
 
-.container_sfondo {
-    display: inline-block;    
+#site_header {
     background-color: lightblue;
+    background-image: url(../img/pattern.png);
+    height: 100px;
     
+}
+
+.logo {
+    height: 50px;
+    padding-top: 2rem;
+
 }
 
 
@@ -25,7 +30,7 @@ body {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .trafiletto {
@@ -48,4 +53,12 @@ thead {
 .tabella {
 
     background-color: powderblue;
+}
+
+.dimension_table {
+    width: 50%;
+}
+
+.tt {
+    text-align: left;
 }
