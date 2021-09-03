@@ -62,3 +62,19 @@ thead {
 .tt {
     text-align: left;
 }
+
+.foto1 {
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+}
+
+.foto2 {
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+}
+
+.testo {
+    color: white;
+}
